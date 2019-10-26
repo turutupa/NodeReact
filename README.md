@@ -1,2 +1,5 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# Node & React boilerplate
+
+This is a copy from GraphQLCasts from Stephen Grider.
+
+Using this as boilerplate for a Node + React app.
